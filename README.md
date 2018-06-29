@@ -5,6 +5,9 @@ Description: Zero Gravity is the youth volunteer network of  Dr. Shrikant Jichka
 
 Tech Stack: Node.js, Javascript, Html, css, Django, Python, Android, Core Java, Angular, React
 
-
+## Workflow
+```
+Fork-> Clone -> Make changes -> Commit & push -> Open a PR
+```
 Admin: Anubha Maneshawar/> 
 Mentors: Yashovardhan Agrawal, karmanya aggarwal, Abhishek Prasad, Arindam Das Modak
