@@ -5,6 +5,15 @@ Description: Zero Gravity is the youth volunteer network of  Dr. Shrikant Jichka
 
 Tech Stack: Node.js, Javascript, Html, css, Django, Python, Android, Core Java, Angular, React
 
+## Setup Application
+This application requires node and npm install on your system
+
+#### install dependencies using npm
+``npm install``
+
+#### start project
+``npm run develop``
+
 ## Workflow
 ```
 Fork-> Clone -> Make changes -> Commit & push -> Open a PR
