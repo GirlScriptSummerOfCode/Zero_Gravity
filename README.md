@@ -1,8 +1,12 @@
 # Zero_Gravity
 
-[![Fork on github](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork) ](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/network/members)
-[![github watch](https://img.shields.io/github/watchers/jfmengels/all-contributors-cli.svg?style=social)](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/watchers)
-[![MIT license](https://img.shields.io/npm/l/express.svg)](LICENSE)
+[![Fork on github](https://img.shields.io/github/forks/GirlScriptSummerOfCode/Zero_Gravity.svg) ](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/network/members)
+[![Issues on github](https://img.shields.io/github/issues/GirlScriptSummerOfCode/Zero_Gravity.svg) ](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/issues)
+[![Stars on github](https://img.shields.io/github/stars/GirlScriptSummerOfCode/Zero_Gravity.svg) ](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/stargazers)
+[![Watchers on github](https://img.shields.io/github/watchers/GirlScriptSummerOfCode/Zero_Gravity.svg) ](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/watchers)
+[![MIT license](https://img.shields.io/github/license/GirlScriptSummerOfCode/Zero_Gravity.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 **Zero Gravity** is the youth volunteer network of  ***Dr. Shrikant Jichkar*** Foundation. It provides the youth of nation a platform to contribute something to the society and bring about a change they want to see in the world. It is a vibrant organization that has grown from 8 members to more than 180 volunteers.
 
