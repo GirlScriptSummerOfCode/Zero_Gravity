@@ -1,4 +1,5 @@
 # Zero_Gravity
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 [![Fork on github](https://img.shields.io/github/forks/GirlScriptSummerOfCode/Zero_Gravity.svg) ](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/network/members)
 [![Issues on github](https://img.shields.io/github/issues/GirlScriptSummerOfCode/Zero_Gravity.svg) ](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/issues)
@@ -50,3 +51,15 @@ Fork-> Clone -> Make changes -> Commit & push -> Open a PR
 ## License
 
 (c) GSSoC and Zero_Gravity Contributors under MIT License
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars2.githubusercontent.com/u/21311242?v=4" width="100px;"/><br /><sub><b>Minanshu Singh</b></sub>](https://github.com/kryptokinght)<br />[💻](https://github.com/GirlScriptSummerOfCode/Zero_Gravity/commits?author=kryptokinght "Code") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
